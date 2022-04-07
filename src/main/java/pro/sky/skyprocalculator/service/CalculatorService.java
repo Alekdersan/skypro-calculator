@@ -1,4 +1,4 @@
-package pro.sky.skyprocalculator;
+package pro.sky.skyprocalculator.service;
 
 public interface CalculatorService {
     int summable(int num1,int num2);
