@@ -5,7 +5,7 @@ public interface CalculatorService {
 
     int subtract(int num1, int num2);
 
-    String increase(Integer num1, Integer num2);
+    int increase(int num1, int num2);
 
-    String split(Integer num1, Integer num2);
+    int split(int num1, int num2);
 }
